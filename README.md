@@ -7,7 +7,7 @@
 ## Sobre: 
 
 Código produzido em um Webinar da Digital Innovation One, Bootcamp <a href="https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack">SPTech Desenvolvimento Fullstack</a>, sobre processos de background com Node e Redis .
-<br>
+<br><br>
 Este projeto trata do conceito chamado “Background jobs”, ou seja, iremos primeiro responder a solicitação do client (front-end) e somente depois processa-lo, passando a responsabilidade para uma thread paralela da aplicação, definindo prioridade de processamento, monitorando eventos, quantidade de processamentos simultâneos e mais, tudo isso utilizando Node.js para a nossa API e Redis para darmos vida a fila de processamento, levando a sua aplicação para um novo nível.
 <br><br>
 
