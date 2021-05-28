@@ -38,9 +38,9 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 - ⚡ Express — A web framework for Node.js
 - 🐮 Bull — Pacote Premium Queue para lidar com trabalhos distribuídos
 
-## Link deste curso  💻
+## Link deste Projeto no Youtube 
 
-🎓  - https://cursos.alura.com.br/course/posicione-elementos-com-flexbox
+💻  https://www.youtube.com/watch?v=mRHpgEF5JGU
 <br>
 <br>
 
